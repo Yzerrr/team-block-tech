@@ -38,7 +38,7 @@ Date App |  block tech
 ![wireflow - Pepijn]()
 
 
-
+***
 ### Installation
 ```
 git clone 
@@ -50,6 +50,6 @@ npm install
 ```
 + create a .env file
 
-
-
+***
+[MIT](https://github.com/Yzerrr/team-block-tech/blob/master/LICENSE)
 
